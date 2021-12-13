@@ -1,0 +1,13 @@
+.timer {}
+
+.timer__header {}
+
+.timer__time {
+   font-size: 100px;
+}
+
+.timer__button {
+   font-size: 20px;
+   padding: 5px 50px;
+   margin-top: 20px;
+}
